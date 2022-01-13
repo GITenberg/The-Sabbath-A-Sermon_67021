@@ -1,0 +1,25 @@
+_repo: The-Sabbath-A-Sermon_67021
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warton, John
+    alias: Wood, William
+    birthdate: 1770
+    deathdate: 1841
+    gutenberg_agent_id: '54085'
+    url: http://www.gutenberg.org/2009/agents/54085
+description: ''
+gutenberg_issued: '2021-12-27'
+identifiers:
+  gutenberg: '67021'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church of England -- Sermons -- 19th century'
+- !lcc 'BV'
+- !lcsh 'Sabbath'
+- GITenberg
+title: 'The Sabbath: A Sermon'
+url: http://www.gutenberg.org/ebooks/67021
